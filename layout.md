@@ -1,4 +1,10 @@
+authors_affiliations.md
 abstract.md
-introduction.md
-results.md
-conclusion.md
+background_and_summary.md
+methods.md
+data_records.md
+technical_validation.md
+acknowledgements.md
+author_contributions.md
+competing_interests.md
+references.md
