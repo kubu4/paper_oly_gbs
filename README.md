@@ -14,6 +14,9 @@ The manuscript is being composed using markdown in [Authorea](https://www.author
 ##### author_contributions.md
 ##### authors_affiliations.md
 ##### background_and_summary.md
+- 700 words maximum
+- The Background & Summary should provide an overview of the study design, the assay(s) performed and the data generated, including any background information needed to relate the work to previous studies or the literature, and should reference literature as needed. This section should also briefly outline both the broader goals that motivated collection of the data and their potential reuse value. We encourage authors to include a figure that provides a schematic overview of the study and assay(s') design.
+
 ##### bibliography
 ##### competing_interests.md
 ##### data_records.md
