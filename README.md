@@ -18,4 +18,6 @@ The manuscript is being composed using markdown in [Authorea](https://www.author
 ##### methods.md
 ##### references.md
 ##### technical_validation.md
-##### title.md
+##### title.md 
+- 110 characters maximum, including whitespaces
+- Titles should avoid the use of acronyms and abbreviations where possible. Colons and parentheses are not permitted.
