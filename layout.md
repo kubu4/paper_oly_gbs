@@ -8,3 +8,5 @@ acknowledgements.md
 author_contributions.md
 competing_interests.md
 references.md
+aa34.html
+27d1.html
