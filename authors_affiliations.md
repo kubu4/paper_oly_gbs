@@ -1,1 +1,1 @@
-White, S.J., and Roberts, S.B.
+White, S.J. and Roberts, S.B.
