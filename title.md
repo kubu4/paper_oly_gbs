@@ -1,1 +1,1 @@
-Genotoype-by-sequencing of three geographically-distinct populations of Olympia oyster (Ostrea lurida)
+Genotoype-by-sequencing of three geographically-distinct populations of the Olympia oyster, Ostrea lurida
