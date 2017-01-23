@@ -8,7 +8,7 @@ Tissue Collection
 
 Size/Age?
 
-Thirty two oysters from each population were shucked into 1.5mL snap cap tubes and stored at -80C.
+Thirty-six oysters from each population were shucked into 1.5mL snap cap tubes and stored at -80C.
 
 Sample Preparation and Sequencing
 
