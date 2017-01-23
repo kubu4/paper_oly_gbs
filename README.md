@@ -2,6 +2,9 @@
 
 Manuscript to describe Olympia oyster GBS data.
 
+Project overview, milestones, sample preparation, etc. can be viewed in the [RobertsLab/project-olympia.oyster-genomic](https://github.com/RobertsLab/project-olympia.oyster-genomic), under the [Genotype-by-sequencing-November-2015](https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Genotype-by-sequencing-November-2015) section.
+
+
 Formatting and layout set for submission to [Scientific Data](http://www.nature.com/sdata/publish/submission-guidelines#format)
 
 The manuscript is being composed using markdown in [Authorea](https://www.authorea.com/users/4974/articles/149442). Authorea uses the layout.md file to reference all other files to set its layout.
