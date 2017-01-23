@@ -14,4 +14,4 @@ Sample Preparation and Sequencing
 
 Sample preparation, library construction, and sequencing were performed by the Beijing Genomics Institute (BGI; Beijing, China). Isolation of DNA was by via the salting out method. Briefly, tissue was lysed with Proteinase K, followed by ethanol precipitation of nucleic acids. Library preparation was performed following the approach developed by \cite{10037822}. Oyster DNA and Illumina adapters containing barcodes were digested with ApeKI restriction enzyme (recognition site: GCWGC). Adapters were ligated to digested oyster DNA, with each individual oyster receiving a unique barcode. These libraries were pooled and subjected to polymerase chain reaction (PCR). Average insert size (219bp) was determined via Bioanalyzer (Agilent Technologies). This pool was sequenced on a HiSeq 4000 (Illumina) as a 100bp pair-end run.
 
-Test text to see if this fixes perpetual "saving.." after adding citation
+Test text to see if this fixes perpetual "saving.." after adding citation.
