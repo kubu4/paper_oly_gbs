@@ -14,8 +14,7 @@ Library preparation was performed following the approach developed by \citet{Els
 Bioinformatics
 
 
-
-The Reseqtools software package (BGI; https://github.com/BGI-shenzhen/Reseqtools) was used to remove adaptor sequenes and low quality reads (reads with greater than 50% of bases with a Q value <= 5), and then demutliplexed using with the split.sh script and the index.lst file for barcode identification (see Code Availability subsection).
+The Reseqtools software package (BGI; https://github.com/BGI-shenzhen/Reseqtools) was used to remove adaptor sequenes and low quality reads (reads with greater than 50% of bases with a Q value <= 5), and then demutliplexed using with the split.sh script. The script utilizes the index.lst file for barcode identification and the enzyme.txt file for identifying the cut site used during library preparation (see Code Availability subsection for script files).
 
 
 
