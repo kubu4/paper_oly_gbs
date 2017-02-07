@@ -11,7 +11,9 @@ Sample preparation, library construction, and sequencing were performed by the B
 
 Library preparation was performed following the approach developed by \citet{Elshire_2011}. Oyster DNA and Illumina adapters containing barcodes were digested with ApeKI restriction enzyme (recognition site: GCWGC). Adapters were ligated to digested oyster DNA, with each individual oyster receiving a unique barcode. These libraries were pooled and subjected to polymerase chain reaction (PCR). Average insert size (219bp) was determined via Bioanalyzer (Agilent Technologies). This pool was sequenced on a HiSeq 4000 (Illumina) as an 100bp pair-end run. Sequencing data was demutliplexed using the Reseqtools software package (BGI; https://github.com/BGI-shenzhen/Reseqtools) with the split.sh script and the index.lst file for barcode identification (see Code Availability subsection).
 
+
+
 Code Availability
 
-The Reseqtools software package for demultiplexing can be found at https://github.com/BGI-shenzhen/Reseqtools. The split.sh script and the index.lst files are both available here: https://github.com/kubu4/paper_oly_gbs/tree/master/data
+The Reseqtools software package for demultiplexing can be found in this GitHub repository: https://github.com/BGI-shenzhen/Reseqtools. The split.sh script and the index.lst files are both available in a dedicated GitHub repository (https://github.com/kubu4/paper_oly_gbs/tree/master/data).
 
