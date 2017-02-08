@@ -24,6 +24,8 @@ The manuscript is being composed using markdown in [Authorea](https://www.author
 ##### competing_interests.md
 ##### data_records.md
 ##### layout.md
+- Formatting file for rendering on [Authorea](https://www.authorea.com/users/4974/articles/149442)
+
 ##### methods.md
 ##### references.md
 ##### technical_validation.md
