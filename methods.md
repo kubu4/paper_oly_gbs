@@ -12,5 +12,5 @@ DNA extraction, library construction, and sequencing were performed by the Beiji
 
 Code Availability
 
-The Reseqtools software package for demultiplexing can be found at https://github.com/BGI-shenzhen/Reseqtools. The split.sh script and the index.lst files are both available here: https://github.com/kubu4/paper_oly_gbs/tree/master/data
+The Reseqtools software package for demultiplexing can be found in this GitHub repository: https://github.com/BGI-shenzhen/Reseqtools. The split.sh script and the index.lst files are both available in a dedicated GitHub repository (https://github.com/kubu4/paper_oly_gbs/tree/master/data).
 
