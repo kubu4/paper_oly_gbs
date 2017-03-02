@@ -1,5 +1,10 @@
 # Technical Validation
 
+- DNA gels to evaluate input DNA
+
+- FastQC analysis on FASTQ files provided by BGI
+
+- Sequencing Summary Table (provided below as an example, but needs to be separate figure - not in-line markdown table)
 
 #### Sequencing Summary Table
 
