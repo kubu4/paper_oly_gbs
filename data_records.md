@@ -1,6 +1,18 @@
 # Data Records
 
-#### SNP Summary Table
+- Provide info on SRA submission
+
+- Provide information about GitHub repo dedicatd to this manuscript
+
+- Describe files provided by BGI
+  - genotypes
+  - SNPs
+  - index.lst
+  - split.sh
+  - enzyme.txt
+
+
+#### SNP Summary Table (put here for quick reference - needs to be separate figure)
 
 | Population  | Mean SNPs | Mean Homozygous | Mean Heterozygous | Homozygous (%) | Heterozygous (%) |
 |-------------|-----------|-----------------|-------------------|----------------|------------------|
