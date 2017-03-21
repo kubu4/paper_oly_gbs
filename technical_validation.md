@@ -1,13 +1,10 @@
 # Technical Validation
 
-#### SNP Summary Table
+- DNA gels to evaluate input DNA
 
-| Population  | Mean SNPs | Mean Homozygous | Mean Heterozygous | Homozygous (%) | Heterozygous (%) |
-|-------------|-----------|-----------------|-------------------|----------------|------------------|
-| Dabob Bay   | 7571.38   | 6445.81         | 1125.56           | 85.22          | 14.78            |
-| Fidalgo Bay | 7464.44   | 6347.50         | 1116.94           | 85.14          | 14.86            |
-| Oyster Bay  | 7878.00   | 6693.91         | 1184.09           | 85.04          | 14.96            |
+- FastQC analysis on FASTQ files provided by BGI
 
+- Sequencing Summary Table (provided below as an example, but needs to be separate figure - not in-line markdown table)
 
 #### Sequencing Summary Table
 
