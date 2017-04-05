@@ -11,4 +11,7 @@
 - ```index.lst```: A tab-delimited text file that contains index sequences necessary for demultiplexing using the ```split.sh``` script.
 - ```nj_tree.out.tre.png```: An image file of the Neighbor-Joining tree grouping of genotypes. Not suitable for resizing. Use the SVG version for resizing.
 - ```nj_tree.out.tre.svg```: A scalable vector graphics file of the Neighbor-Joining tree grouping of genotypes.
+- ```oly_gbs_HL_fastqc.tar.gz```: A gzipped tarball of all FASTQC analyses for all HL individuals.
+- ```oly_gbs_NF_fastqc.tar.gz```: A gzipped tarball of all FASTQC analyses for all NF individuals.
+- ```oly_gbs_SN_fastqc.tar.gz```: A gzipped tarball of all FASTQC analyses for all SN individuals.
 - ```split.sh```: Script used by BGI for demultiplexing using [Reseqtools](https://github.com/BGI-shenzhen/Reseqtools).
