@@ -1,6 +1,6 @@
 # Data Records
 
-All FASTQ files corresponding to each individual oyster (192 files) have been deposited in the National Center for Biotechnology Information (NCBI) short-read archive (SRA). [Data Citation 1: NCBI BioProject ######].
+All FASTQ files corresponding to each individual oyster (192 files) have been deposited in the National Center for Biotechnology Information (NCBI) Sequence Read Archive (SRA). [Data Citation 1: NCBI BioProject ######].
 
 Other data files described in this manuscript are stored in a publicly available Zenodo repository: https://doi.org/10.5281/zenodo.496149 (Data Citation 2: https://doi.org/10.5281/zenodo.496149).
 
