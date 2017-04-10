@@ -14,7 +14,7 @@ Single nucleotide polymorphisms (SNPs) were identified in each individual. The t
 
 | Population | Mean Reads (M) | Mean Base Number (Mb) | Mean GC (%) | Mean Q20 (%) | Mean Q30 (%) |
 |------------|----------------|-----------------------|-------------|--------------|--------------|
-| Total      | 5.66           | 548.06                | 42.59       | 95.64        | 90.73        |
+| All        | 5.66           | 548.06                | 42.59       | 95.64        | 90.73        |
 | HL         | 5.53           | 532.27                | 42.65       | 95.63        | 90.67        |
 | NF         | 5.52           | 538.66                | 42.54       | 95.66        | 90.78        |
 | SN         | 5.92           | 573.25                | 42.59       | 95.64        | 90.74        |
