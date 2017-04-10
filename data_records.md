@@ -9,7 +9,7 @@ All FASTQ files corresponding to each individual oyster (192 files) have been de
 Other data files described in this manuscript are stored in a publicly available Zenodo repository: https://doi.org/10.5281/zenodo.496149 (Data Citation 2: https://doi.org/10.5281/zenodo.496149).
 
 - Describe files provided by BGI
-The genotypes.xls file is a spreadsheet that provides loci information for indvidual genotypes. Over 10,000 loci were identified and used for unqiquely identifying individuals.
+The Genotype.xls file is a spreadsheet that provides loci information for indvidual genotypes. Over 10,000 loci were identified (10,363) and used for unqiquely genoytping individuals. Each row corresponds to and identified locus and has been assigned a unique ID. The Consensu_Seq column provides an 82 nucleotide region containing an individual SNP that is unique to at least one of the individuals. The position of this within that 82 base region is indicated in the pos column. The subsequent columns represent each of the 92 individuals.
   - SNPs
   - index.lst
   - split.sh
