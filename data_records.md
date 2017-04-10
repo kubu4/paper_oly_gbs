@@ -9,7 +9,7 @@ All FASTQ files corresponding to each individual oyster (192 files) have been de
 Other data files described in this manuscript are stored in a publicly available Zenodo repository: https://doi.org/10.5281/zenodo.496149 (Data Citation 2: https://doi.org/10.5281/zenodo.496149).
 
 - Describe files provided by BGI
-  - genotypes
+The genotypes.xls file is a spreadsheet that provides loci information for indvidual genotypes. Over 10,000 loci were identified and used for unqiquely identifying individuals.
   - SNPs
   - index.lst
   - split.sh
