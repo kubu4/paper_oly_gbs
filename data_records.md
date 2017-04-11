@@ -2,13 +2,13 @@
 
 All FASTQ files corresponding to each individual oyster (192 files) have been deposited in the National Center for Biotechnology Information (NCBI) Sequence Read Archive (SRA). [Data Citation 1: NCBI SRA SRP099079].
 
-Other data files described in this manuscript are stored in a publicly available Zenodo repository: https://doi.org/10.5281/zenodo.496149 (Data Citation 2: https://doi.org/10.5281/zenodo.496149).
+Other data files described in this manuscript are stored in a publicly available Open Science Framework repository: http://doi.org/10.17605/OSF.IO/J8RC2 (Data Citation 2: http://doi.org/10.17605/OSF.IO/J8RC2).
 
 An overview of sequencing results is provided in the Data.stat.xls file (Data Citation 2: new GitHub DOI). This provides the read numbers (millions of bases), base numbers (megabases), GC percentage, Q20 percentage, and Q30 percentage for each sample sequenced.
 
 Genotyping information for all individuals is contained in the Genotype.xls file. This spreadsheet provides loci information for indvidual genotypes. Over 10,000 loci were identified (10,363) and used for uniquely genoytping individuals. Each row corresponds to an identified locus and has been assigned a unique ID. The Consensu_Seq column provides an 82 nucleotide region containing an individual SNP that is unique to at least one of the individuals. The position of this SNP within that 82 base region is indicated in the pos column. The subsequent columns represent each of the 96 individuals.
 
-Single nucleotide polymorphisms (SNPs) were identified in each individual. The total number of homozygous and heterozygous SNPs within each individual are documented in the SNP.stat.xls spreadsheet (Data Citation 2: new GitHub DOI). Additionally, this spreadsheet provides a percent contribution of homozygous and heterygous SNPs within each individual. At the population level, we determined the mean number of homozygous and heteroyzgous SNPs within each of the three populations, as well as the percent contributions of homozygous and heterozygous SNPs (Table 1).
+Single nucleotide polymorphisms (SNPs) were identified in each individual. The total number of homozygous and heterozygous SNPs within each individual are documented in the SNP.stat.xls spreadsheet (Data Citation 2: http://doi.org/10.17605/OSF.IO/J8RC2). Additionally, this spreadsheet provides a percent contribution of homozygous and heterygous SNPs within each individual. At the population level, we determined the mean number of homozygous and heteroyzgous SNPs within each of the three populations, as well as the percent contributions of homozygous and heterozygous SNPs (Table 1).
 
 #### Sequencing Data Summary Table (put here for quick reference - needs to be separate figure)
 
