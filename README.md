@@ -2,8 +2,6 @@
 
 Manuscript to describe Olympia oyster GBS data.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.496149.svg)](https://doi.org/10.5281/zenodo.496149)
-
 
 Project overview, milestones, sample preparation, etc. can be viewed in the [RobertsLab/project-olympia.oyster-genomic](https://github.com/RobertsLab/project-olympia.oyster-genomic), under the [Genotype-by-sequencing-November-2015](https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Genotype-by-sequencing-November-2015) section.
 
