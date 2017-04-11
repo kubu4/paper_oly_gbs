@@ -2,7 +2,7 @@
 
 All FASTQ files corresponding to each individual oyster (192 files) have been deposited in the National Center for Biotechnology Information (NCBI) Sequence Read Archive (SRA). [Data Citation 1: NCBI SRA SRP099079].
 
-Other data files described in this manuscript are stored in a publicly available Open Science Framework repository: http://doi.org/10.17605/OSF.IO/J8RC2 (Data Citation 2: http://doi.org/10.17605/OSF.IO/J8RC2).
+Other data files described in this manuscript are stored in a publicly available Open Science Framework repository: http://doi.org/10.17605/OSF.IO/J8RC2 (Data Citation 2: http://doi.org/10.17605/OSF.IO/J8RC2). These data are available under a Creative Commons Attribution 4.0 International Public License, whereby anyone may freely use and adapt the data, as long as the original source is credited, the original license is linked, and any changes to the data are indicated in subsequent use.
 
 An overview of sequencing results is provided in the Data.stat.xls file (Data Citation 2: new GitHub DOI). This provides the read numbers (millions of bases), base numbers (megabases), GC percentage, Q20 percentage, and Q30 percentage for each sample sequenced.
 
