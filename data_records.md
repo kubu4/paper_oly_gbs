@@ -10,20 +10,20 @@ Genotyping information for all individuals is contained in the Genotype.xls file
 
 Single nucleotide polymorphisms (SNPs) were identified in each individual. The total number of homozygous and heterozygous SNPs within each individual are documented in the SNP.stat.xls spreadsheet (Data Citation 2: http://doi.org/10.17605/OSF.IO/J8RC2). Additionally, this spreadsheet provides a percent contribution of homozygous and heterygous SNPs within each individual. At the population level, we determined the mean number of homozygous and heteroyzgous SNPs within each of the three populations, as well as the percent contributions of homozygous and heterozygous SNPs (Table 2).
 
-#### Sequencing Data Summary Table (put here for quick reference - needs to be separate figure)
+#### Sequencing Data Summary Table (Table 1. put here for quick reference - needs to be separate figure)
 
-| Population | Mean Reads (M) | Mean Base Number (Mb) | Mean GC (%) | Mean Q20 (%) | Mean Q30 (%) |
+|  Population  | Mean Reads (M) | Mean Base Number (Mb) | Mean GC (%) | Mean Q20 (%) | Mean Q30 (%) |
 |------------|----------------|-----------------------|-------------|--------------|--------------|
 | All        | 5.66           | 548.06                | 42.59       | 95.64        | 90.73        |
-| HL         | 5.53           | 532.27                | 42.65       | 95.63        | 90.67        |
-| NF         | 5.52           | 538.66                | 42.54       | 95.66        | 90.78        |
-| SN         | 5.92           | 573.25                | 42.59       | 95.64        | 90.74        |
+| Dabob Bay (HL) | 5.53           | 532.27                | 42.65       | 95.63        | 90.67        |
+| Fidalgo Bay (NF)         | 5.52           | 538.66                | 42.54       | 95.66        | 90.78        |
+| Oyster Bay (SN)         | 5.92           | 573.25                | 42.59       | 95.64        | 90.74        |
 
 
 #### SNP Summary Table (Table 2. put here for quick reference - needs to be separate figure)
 
 | Population  | Mean SNPs | Mean Homozygous | Mean Heterozygous | Homozygous (%) | Heterozygous (%) |
 |-------------|-----------|-----------------|-------------------|----------------|------------------|
-| Dabob Bay   | 7571.38   | 6445.81         | 1125.56           | 85.22          | 14.78            |
-| Fidalgo Bay | 7464.44   | 6347.50         | 1116.94           | 85.14          | 14.86            |
-| Oyster Bay  | 7878.00   | 6693.91         | 1184.09           | 85.04          | 14.96            |
+| Dabob Bay (HL)  | 7571.38   | 6445.81         | 1125.56           | 85.22          | 14.78            |
+| Fidalgo Bay (NF) | 7464.44   | 6347.50         | 1116.94           | 85.14          | 14.86            |
+| Oyster Bay (SN) | 7878.00   | 6693.91         | 1184.09           | 85.04          | 14.96            |
