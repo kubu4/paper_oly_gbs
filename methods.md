@@ -8,7 +8,7 @@ Adult oysters (n=32) were obtained from three bays within Puget Sound, WA: Dabob
 
 Sample Preparation and Sequencing
 
-Sample preparation, library construction, and sequencing were performed by the Beijing Genomics Institute (BGI; Beijing, China). Isolation of DNA was by via the salting out method. Briefly, tissue was lysed with Proteinase K, followed by ethanol precipitation of nucleic acids. Sample DNA was examined for integrity via agarose gel (Data Citation NUMBER: https://osf.io/ndu34/; Data Citation 2: http://doi.org/10.17605/OSF.IO/J8RC2). Thirty-two samples from each population were selected for sequencing.
+Sample preparation, library construction, and sequencing were performed by the Beijing Genomics Institute (BGI; Beijing, China). Isolation of DNA was by via the salting out method. Briefly, tissue was lysed with Proteinase K, followed by ethanol precipitation of nucleic acids. Sample DNA was examined for integrity via agarose gel (Data Citation 1: https://osf.io/ndu34/; Data Citation 2: http://doi.org/10.17605/OSF.IO/J8RC2). Thirty-two samples from each population were selected for sequencing.
 
 Library preparation was performed following the approach developed by \citet{Elshire_2011}. Oyster DNA and Illumina adapters containing barcodes were digested with ApeKI restriction enzyme (recognition site: GCWGC). Adapters were ligated to digested oyster DNA, with each individual oyster receiving a unique barcode. These libraries were pooled and subjected to polymerase chain reaction (PCR). Average insert size (219bp) was determined via Bioanalyzer (Agilent Technologies). This pool was sequenced on a HiSeq 4000 (Illumina) as an 100bp pair-end run. 
 
