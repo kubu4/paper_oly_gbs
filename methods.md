@@ -14,15 +14,10 @@ Library preparation was performed following the approach developed by \citet{Els
 
 Bioinformatics
 
-
-The Reseqtools software package (BGI; https://github.com/BGI-shenzhen/Reseqtools) was used to remove adaptor sequenes and low quality reads (reads with greater than 50% of bases with a Q value <= 5), and then demutliplexed using the split.sh script. The script utilizes the index.lst file for barcode identification and the enzyme.txt file for identifying the cut site used during library preparation (see Code Availability subsection for script files). Reads lacking barcodes were discarded. Read alignments were performed using the proprietary NPGT software packages (BGI; Beihing, China).
-
 Single nucleotide polymorphisms (SNPs) were identfied using radsnp, a part of the NPGT software package. Loci lacking >50% of SNP data were filtered out and the remaining loci were used to generate a list of genoytpes.
 
 
 
 Code Availability
-
-The Reseqtools software package for demultiplexing can be found in this GitHub repository: https://github.com/BGI-shenzhen/Reseqtools. The split.sh script and the index.lst files are both available in a dedicated GitHub repository (https://github.com/kubu4/paper_oly_gbs/tree/master/data).
 
 The NPGT software package used for SNP detection and gentoype determination is an in-house, proprietary package used by BGI and is not available for use.
