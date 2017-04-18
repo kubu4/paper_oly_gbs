@@ -1,5 +1,7 @@
 # paper_oly_gbs
 
+## UPDATE 20170418 - Manuscript has been moved to [Overleaf](https://www.overleaf.com/read/mqbbvmwxhncg) for final edits/formatting prior to submission. This repo will no longer be updated.
+
 Manuscript to describe Olympia oyster GBS data.
 
 
