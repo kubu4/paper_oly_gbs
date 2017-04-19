@@ -13,4 +13,6 @@
 
 - ```nj_tree.out.tre.png```: A low resolution PNG image of phylogenetic tree of all individual oysters, generated using the Neighbor-Joining method.
 
-- ```nj_tree.out.tre.svg```: A scalable SVG of phylogenetic tree of all individual oysters, generated using the Neighbor-Joining method. Can be used to create higher resolution image (compared to the ```nj_tree.out.tre.png``` file) of the phylogenetic tree.
+- ```nj_tree.out.tre.svg```: A scalable SVG of phylogenetic tree of all individual oysters, generated using the Neighbor-Joining method. Can be used to create higher resolution image (compared to the ```nj_tree.out.tre.png``` file) of the phylogenetic tree. The tree was generated using the software [TreeBeST](https://github.com/Ensembl/treebest) with the following parameters: ```nj -b 100 snp.fa```    
+    ````nj````: build neighbour-joining tree, SDI, rooting    
+    ```-b 100```: bootstrapping times
