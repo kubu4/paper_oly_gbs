@@ -1,0 +1,8 @@
+[1] Format specification(each column from left to right)£º
+	
+	1)	sample ID;
+	2)	total number of SNP;
+	3)	The number of homozygous SNP;
+	4)	The number of hybrid SNP;
+	5)	The percentage of the homozygous SNP in all SNP;
+	6)	The percentage of the hybrid SNP in all SNP;

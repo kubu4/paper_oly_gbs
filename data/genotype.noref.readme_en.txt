@@ -1,0 +1,5 @@
+[1]Format specification(each column from left to right)£º
+	1)	Stack ID;
+	2)	Consensus sequence;
+  	3)	the  position of snp on consensus sequence;
+	4)  	the genotype of each sample;
