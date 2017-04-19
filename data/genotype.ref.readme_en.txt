@@ -1,1 +1,0 @@
-[1]Format specification(each column from left to right)£º		1)	Chromosome ID;	2)	the  position of snp;  	3)	the genotype of ref;	4)  	the genotype of each sample;
